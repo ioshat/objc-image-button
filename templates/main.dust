@@ -1,0 +1,4 @@
+UIButton *{name} = [UIButton buttonWithType:UIButtonTypeCustom];{~n}
+[{name} setTranslatesAutoresizingMaskIntoConstraints:NO];{~n}
+[{name} setBackgroundImage:[UIImage imageNamed:@"{name}"] forState:UIControlStateNormal];{~n}
+[superView addSubview:{name}];
