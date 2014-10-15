@@ -3,17 +3,13 @@
   "title": "Image Button",
   "version": "0.0.1",
   "description": "Template for Image Button in Objective-C",
+  "scope": "source.objc, source.objc++",
   "main": "dust.js",
+  "category": "image",
   "author": "Tomas Ruzicka <tomasruzicka@abdoc.net> (https://github.com/lezuse)",
   "license": "MIT",
   "dependencies": {
   },
   "bundledDependencies": [
-  ],
-  "settings": {
-    "category": {
-      "type": "string",
-      "default": "image"
-    }
-  }
+  ]
 }
